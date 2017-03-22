@@ -1,8 +1,7 @@
 ![Imgur](http://i.imgur.com/j8UmZoJ.jpg)
 
-----------------
 |School project| 
-----------------
+|--------------|
 
 # vLan2
 
